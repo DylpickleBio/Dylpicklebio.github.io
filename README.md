@@ -16,7 +16,7 @@
 <a href="experience.html">My Experience</a>
 </nav>
 
-<p>This website explains what wealth means and how people build it over time through discipline, smart financial choices, and entrepreneurship.</p>
+<p> This website explains what wealth means and how people build it over time through discipline, smart financial choices, and entrepreneurship.</p>
 
 </body>
 </html>
