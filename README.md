@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>The Path to Wealth</title>
+    <title> The Path to Wealth </title>
   
 </head>
 
